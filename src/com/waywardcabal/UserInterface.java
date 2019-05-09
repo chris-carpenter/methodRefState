@@ -29,7 +29,7 @@ public class UserInterface {
     }
 
     public UIState one() {
-        System.out.println("one.");
+        System.out.println("1.");
         return this.askUser();
     }
 
